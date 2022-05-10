@@ -1,7 +1,16 @@
 /*google font=>font-family: 'Kaushan Script', cursive;*/
 
+.headerContainer {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+  align-content: center;
+}
+
 .header-logo {
-  margin-left: 35%;
+  height: 300px;
+  width: 300px;
 }
 
 .subTitle {
